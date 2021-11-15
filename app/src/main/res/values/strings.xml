@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SberSchoolLesson32HWK</string>
+    <string name="working">&#128736;</string>
+    <string name="saving">&#128190;</string>
+    <string name="calling">&#9742;</string>
+    <string name="closing">&#128274;</string>
+    <string name="belling">&#128276;</string>
+    <string name="burning">&#128293;</string>
+    <string name="stopping">&#9940;</string>
+    <string name="golfing">&#9971;</string>
+    <string name="finding">&#128270;</string>
+    <string name="trashing">&#128465;</string>
+    <string name="shipping">&#9875;</string>
+    <string name="drinking">&#9749;</string>
+</resources>
